@@ -6,7 +6,7 @@ global $newslite_customizer_defaults;
 
 /*defaults values*/
 $newslite_customizer_defaults['newslite-footer-sidebar-number'] = 3;
-$newslite_customizer_defaults['newslite-copyright-text'] = __('Copyright &copy; All right reserved.','newslite');
+$newslite_customizer_defaults['newslite-copyright-text'] = __('Copyright &copy; By Demarvel','newslite');
 $newslite_customizer_defaults['newslite-enable-theme-name'] = 1;
 
 $newslite_sections['newslite-footer-options'] =

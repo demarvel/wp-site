@@ -112,8 +112,7 @@ if ( ! function_exists( 'newslite_footer' ) ) :
                             <?php
                              if( 1 == $newslite_customizer_all_values['newslite-enable-theme-name']){
                                 ?>
-                                <span class="sep"> | </span>
-                                <a href="http://evisionthemes.com/" target="_blank" rel="designer">eVisionThemes </a> <span class="sep"> | </span> <a href="https://svoimirukamy.com/" title="Поделки своими руками" target="_blank">Поделки</a>
+
                                 <?php
                             }
                             ?>
